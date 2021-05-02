@@ -1,3 +1,6 @@
 .home {
   background-image: url("../../images/city-night.jpg");
+  background-size: cover;
+  flex: 1;
+  color: #fff;
 }

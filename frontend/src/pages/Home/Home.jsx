@@ -1,5 +1,9 @@
+import "./Home.css";
+import SearchIcon from "@material-ui/icons/Search";
+import NearMeIcon from "@material-ui/icons/NearMe";
+
 const Home = () => {
-  return <h1 className="home">HOME PAGE!!</h1>;
+  return <section className="home"></section>;
 };
 
 export default Home;
