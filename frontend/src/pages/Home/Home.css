@@ -1,0 +1,25 @@
+.home {
+  background-image: url("../../images/city-night.jpg");
+  background-size: cover;
+  flex: 1;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+.home__title {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 75px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.home__title--1 {
+  font-size: 4rem;
+}
+.home__title--2 {
+  font-size: 2.5rem;
+  letter-spacing: 0.15rem;
+}
